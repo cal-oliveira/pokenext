@@ -11,7 +11,7 @@ export default function MainContainer({ children }){
                 <title>PokeNext</title>
             </Head>
             <Navbar />
-                <main>
+                <main className="main-container">
                     {children}
                 </main>
             <Footer />
