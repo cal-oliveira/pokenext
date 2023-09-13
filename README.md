@@ -16,7 +16,7 @@ Pokedex desenvolvido com NextJs e hospedado na Vercel
 ![App Screenshot](https://github.com/cal-oliveira/pokenext/blob/master/screenshots/pokenext%20(1).png?raw=true)
 ## Referência
 
-    Conteúdo aprendido nou Youtbe Através do Matheus Battisti
+    Conteúdo aprendido no Youtube Através do Matheus Battisti
 
  - [Matheus Battisti](https://www.youtube.com/@MatheusBattisti)
  - [Veja meu projeto online - pokenext](https://pokenext-gold.vercel.app/)
