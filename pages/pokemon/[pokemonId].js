@@ -37,7 +37,6 @@ export const getStaticProps = async(context) => {
 
 }
 
-
 export default function Pokemon({ pokemon }){
 
     var pokemonId = 0
