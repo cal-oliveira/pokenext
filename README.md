@@ -7,7 +7,7 @@ Pokedex desenvolvido com NextJs e hospedado na Vercel
 ## ScreenShots
 
 ### Home
-![App Screenshot](https://github.com/cal-oliveira/pokenext/blob/master/screenshots/pokenext%20(3).png?raw=true)
+![App Screenshot](file:///C:/Users/kkghi/Videos/Captures/pokenext.png)
 
 ### Pokemon
 ![App Screenshot](https://github.com/cal-oliveira/pokenext/blob/master/screenshots/pokenext%20(2).png?raw=true)
